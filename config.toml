@@ -3,9 +3,6 @@ languageCode = "zh-CN"
 DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 enableEmoji = true
-layoutDir = "layouts"
-contentDir = "content"
-
 # pagination = 10
 
 title = "Hugo"
@@ -26,7 +23,7 @@ googleAnalytics = ""
 
 [params.valine]
   enable = false
-  lang = 'zh-CN' # en
+  lang = 'en' # zh-CN
   appId = ''
   appKey = ''
   placeholder = 'Say Something......'
