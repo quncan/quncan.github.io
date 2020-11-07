@@ -3,6 +3,9 @@ languageCode = "zh-CN"
 DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 enableEmoji = true
+layoutDir = "layouts"
+contentDir = "content"
+
 # pagination = 10
 
 title = "Hugo"
