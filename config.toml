@@ -1,6 +1,6 @@
-baseURL = "https://quncan.github.io/"
-languageCode = "zh-CN"
-DefaultContentLanguage = "zh-CN"
+baseURL = "http://example.org/"
+languageCode = "en"
+DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 enableEmoji = true
 # pagination = 10
@@ -44,7 +44,7 @@ googleAnalytics = ""
   weight = 2
 
 [social]
-  # github = "https://github.com/RainerChiang"
+  github = "https://github.com/RainerChiang"
   rss = "index.xml"
 
 [taxonomies]
