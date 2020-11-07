@@ -1,4 +1,0 @@
-cmarkgfm
-jinja2
-python-frontmatter
-pygments
