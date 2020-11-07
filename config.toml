@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
-languageCode = "en"
-DefaultContentLanguage = "en"
+baseURL = "https://quncan.github.io/"
+languageCode = "zh-CN"
+DefaultContentLanguage = "zh-CN"
 enableInlineShortcodes = true
 enableEmoji = true
 # pagination = 10
@@ -23,7 +23,7 @@ googleAnalytics = ""
 
 [params.valine]
   enable = false
-  lang = 'en' # zh-CN
+  lang = 'zh-CN' # en
   appId = ''
   appKey = ''
   placeholder = 'Say Something......'
@@ -44,7 +44,7 @@ googleAnalytics = ""
   weight = 2
 
 [social]
-  github = "https://github.com/RainerChiang"
+  # github = "https://github.com/RainerChiang"
   rss = "index.xml"
 
 [taxonomies]
