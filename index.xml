@@ -9,12 +9,26 @@
     <copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright>
     <lastBuildDate>Sun, 08 Nov 2020 02:01:58 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>测试主题</title>
+      <title>关于</title>
+      <link>/about/</link>
+      <pubDate>Sun, 08 Nov 2020 10:37:58 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>关于 更新时间：周一，三，五
+更新内容：第一，二星期更新一部电视剧或更新单部电影，综艺，演唱会，音乐专辑，动漫；第三个星期五更新18+，第四个星期五更新一部原盘；
+分辨率：18+为720P+，原盘1080P+，其余720P+以上；
+注：只更新原声和国外电影的粤配
+会员制 19.9/月，前100名8折
+联系邮箱 </description>
+    </item>
+    
+    <item>
+      <title>[720P]笑傲江湖2：东方不败1992[李连杰.林青霞.原声中文字幕]</title>
       <link>/posts/post-1/</link>
       <pubDate>Sun, 08 Nov 2020 02:01:58 +0530</pubDate>
       
       <guid>/posts/post-1/</guid>
-      <description>用于测试主题生成 </description>
+      <description>原声中文字幕 </description>
     </item>
     
   </channel>

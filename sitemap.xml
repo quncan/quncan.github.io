@@ -3,12 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/about/</loc>
+    <lastmod>2020-11-08T10:37:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/720p/</loc>
     <lastmod>2020-11-08T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/categories/hugo/</loc>
+    <loc>/posts/post-1/</loc>
+    <lastmod>2020-11-08T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
     <lastmod>2020-11-08T02:01:58+05:30</lastmod>
   </url>
   
@@ -28,12 +38,32 @@
   </url>
   
   <url>
-    <loc>/tags/test/</loc>
+    <loc>/tags/%E4%B8%9C%E6%96%B9%E4%B8%8D%E8%B4%A5/</loc>
     <lastmod>2020-11-08T02:01:58+05:30</lastmod>
   </url>
   
   <url>
-    <loc>/posts/post-1/</loc>
+    <loc>/tags/%E6%9D%8E%E8%BF%9E%E6%9D%B0/</loc>
+    <lastmod>2020-11-08T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E6%9E%97%E9%9D%92%E9%9C%9E/</loc>
+    <lastmod>2020-11-08T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/%E7%94%B5%E5%BD%B1/</loc>
+    <lastmod>2020-11-08T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E7%AC%91%E5%82%B2%E6%B1%9F%E6%B9%96/</loc>
+    <lastmod>2020-11-08T02:01:58+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/%E9%87%91%E5%BA%B8/</loc>
     <lastmod>2020-11-08T02:01:58+05:30</lastmod>
   </url>
   
