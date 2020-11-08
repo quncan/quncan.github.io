@@ -1,5 +1,5 @@
-baseURL = "http://quncan.github.io/"
-languageCode = "zh-CN"
+baseURL = "https://quncan.github.io/"
+languageCode = "en"
 title = "My New Hugo Site"
 theme = "simpleness"
 enableInlineShortcodes = true
@@ -22,7 +22,7 @@ googleAnalytics = ""
 
 [params.valine]
   enable = false
-  lang = 'zh-CN' # en
+  lang = 'en' # zh-CN
   appId = ''
   appKey = ''
   placeholder = 'Say Something......'
